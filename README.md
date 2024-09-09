@@ -21,7 +21,7 @@ Hey there! 👋<br><br>🚀 Currently working on: Building comprehensive solutio
 ---
 [![](https://visitcount.itsvg.in/api?id=anuj-er&icon=2&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Buy Me a Coffee
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AnujSiwach485) 
 
   
