@@ -20,7 +20,7 @@ I combine technical expertise with a disciplined approach to deliver high-qualit
 
 ## 🎯 Current Focus
 
-- 🔭 **Building:** Full-stack web applications using React, Next.js, and Tailwind CSS
+- 🔭 **Building:** Web applications using React, Next.js, and Tailwind CSS
 - 🌱 **Learning:** Advanced Data Structures & Algorithms in C++
 - 🚀 **Exploring:** Cloud technologies and DevOps practices
 - 🎨 **Creating:** Engaging user interfaces with modern design tools
