@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://cdn-media-1.freecodecamp.org/images/1*MINb-ejYCab5RKkhqAplDA.gif" alt="Coding Animation" width="100%">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXczOHJwY2w0OWV3bnY0NHY0MWpwZ3RhemJydXIzNWxoMXN2ZG53ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Animation" width="100%">
 </div>
 
 <!-- Header -->
@@ -12,10 +12,10 @@
 <h3 align="center">Crafting elegant solutions with code & creativity</h3>
 
 <div align="center">
-  <a href="https://siwach.vercel.app">Portfolio</a> •
-  <a href="https://siwach.vercel.app/resume/resume.pdf">Resume</a> •
+  <a href="https://anujer.is-a.dev">Portfolio</a> •
+  <a href="https://docs.google.com/document/d/1wCicoRxvyIMzqkGMlbq5CRsM_LKB6Whx/view?usp=sharing">Resume</a> •
   <a href="https://linkedin.com/in/anuj-er">LinkedIn</a> •
-  <a href="mailto:siwachanuj@outlook.com">Email</a>
+  <a href="mailto:anujkumar142000@gmail.com">Email</a>
 </div>
 
 <br>
