@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXczOHJwY2w0OWV3bnY0NHY0MWpwZ3RhemJydXIzNWxoMXN2ZG53ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="Coding Animation" width="100%">
+  <img src="https://anujer.is-a.dev/banner-github.gif" alt="Coding Animation" width="100%" height="420" style="object-fit: cover;">
 </div>
 
 <!-- Header -->
