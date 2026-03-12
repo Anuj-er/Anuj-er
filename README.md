@@ -1,10 +1,14 @@
 <div align="center">
 
-# Anuj Kumar
-
-<sub>Full-Stack &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; AI &nbsp;&nbsp;|&nbsp;&nbsp; B.E. CS &nbsp;·&nbsp; CGPA 9.0 &nbsp;·&nbsp; Open to Opportunities</sub>
-
-<br/>
+```
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║        const dev = new Engineer("Anuj Kumar");               ║
+║        dev.role    = "Full-Stack · Cloud · AI";              ║
+║        dev.status  = "open to opportunities";                ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=13&pause=2000&color=00D9FF&center=true&vCenter=true&width=620&lines=HackIndia+National+Finalist+%E2%80%94+AI+%26+Web3;Hackfest+%40+SAP+Labs+%E2%80%94+Top+10+%2F+120%2B+Teams;Smart+India+Hackathon+%E2%80%94+Regional+Winner;LeetCode+Knight+%E2%80%94+DSA+%26+Problem+Solving;Bluestock+%E2%80%94+Software+Engineer+Intern" alt="Achievements" />
 
