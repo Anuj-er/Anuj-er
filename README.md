@@ -31,7 +31,7 @@
 <div align="center">
 <table width="80%">
 <tr>
-<td valign="top" width="50%" align="center">
+<td valign="top" width="50%" align="left">
 
 ### Identity
 
@@ -44,7 +44,7 @@ batch   : 2023 – 2027
 ```
 
 </td>
-<td valign="top" width="50%" align="center">
+<td valign="top" width="50%" align="left">
 
 ### Experience
 
@@ -65,7 +65,7 @@ scope   : backend · frontend · git · releases
 ### Stack
 
 ```mermaid
-%%{init: {'theme': 'neutral', 'themeVariables': {'fontSize': '10px'}}}%%
+%%{init: {'theme': 'base', 'themeVariables': {'fontSize': '11px', 'primaryColor': '#1a1b2e', 'primaryTextColor': '#c0caf5', 'primaryBorderColor': '#7aa2f7', 'lineColor': '#7aa2f7', 'secondaryColor': '#16213e', 'tertiaryColor': '#0f3460', 'nodeBorder': '#bb9af7', 'clusterBkg': '#1a1b2e', 'titleColor': '#7aa2f7', 'edgeLabelBackground': '#1a1b2e'}}}%%
 mindmap
   root((Anuj))
     Languages
@@ -100,20 +100,6 @@ mindmap
 | **Hackfest @ SAP Labs** | 🥇 Regional Winner &nbsp;·&nbsp; Top 10 out of 120+ teams |
 | **Smart India Hackathon** | 🥇 Regional Winner &nbsp;·&nbsp; Selected for national platform |
 | **HackIndia 2024** &nbsp;_(India's Largest Web3 & AI Hackathon)_ | 🏅 4th Place Nationally &nbsp;·&nbsp; Invited as Mentor 2025 |
-
----
-
-### Journey
-
-```mermaid
-%%{init: {'theme': 'neutral', 'themeVariables': {'fontSize': '11px'}}}%%
-timeline
-    title Engineering Timeline
-    2023 : B.E. CS · Chitkara
-    2024 : HackIndia · SAP Labs · SIH
-    2025 : Knight · Intern · Mentor
-    2026 : CGPA 9.0 · Open to Work
-```
 
 ---
 
