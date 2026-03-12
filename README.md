@@ -64,7 +64,8 @@ scope   : backend · frontend · git · releases
 
 ### Stack
 
-<table width="100%">
+<div align="center">
+<table width="80%">
 <tr>
 <td align="center" width="33%">
 
@@ -123,16 +124,21 @@ scope   : backend · frontend · git · releases
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ### Wins
+
+<div align="center">
 
 | Event | Result |
 |---|---|
 | **Hackfest @ SAP Labs** | 🥇 Regional Winner &nbsp;·&nbsp; Top 10 out of 120+ teams |
 | **Smart India Hackathon** | 🥇 Regional Winner &nbsp;·&nbsp; Selected for national platform |
 | **HackIndia 2024** &nbsp;_(India's Largest Web3 & AI Hackathon)_ | 🏅 4th Place Nationally &nbsp;·&nbsp; Invited as Mentor 2025 |
+
+</div>
 
 ---
 
