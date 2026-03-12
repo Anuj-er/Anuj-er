@@ -5,8 +5,7 @@
 ║                                                              ║
 ║        const dev = new Engineer("Anuj Kumar");               ║
 ║        dev.role    = "Full-Stack · Cloud · AI";              ║
-║        dev.status  = "open to opportunities";                ║
-║        dev.cgpa    = 9.0;                                    ║
+║        dev.status  = "open to opportunities";                ║     
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
@@ -64,30 +63,30 @@ scope   : backend · frontend · git · releases
 ### Stack
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
+%%{init: {'theme': 'neutral'}}%%
 mindmap
-  root((Anuj Kumar))
+  root((Anuj))
     Languages
       Java
       Python
-      JavaScript
+      JS
     Frontend
       React
       Next.js
     Backend
       Node.js
-      Express.js
-      REST APIs
-    Cloud & DevOps
+      Express
+      REST
+    Cloud
       AWS
       Docker
-      Vercel · Render
-    Databases
+      Vercel
+    DB
       MongoDB
       MySQL
     CS Core
-      DSA · OOP
-      OS · DBMS · CN
+      DSA/OOP
+      OS/CN/DBMS
 ```
 
 ---
@@ -119,17 +118,13 @@ Topics    :  Arrays · Hashing · Recursion · Greedy · Trees · DP
 ### Journey
 
 ```mermaid
-%%{init: {'theme': 'dark'}}%%
+%%{init: {'theme': 'neutral'}}%%
 timeline
     title Engineering Timeline
-    2023 : Started B.E. CS · Chitkara University
-    2024 : HackIndia — 4th Place Nationally
-         : Hackfest @ SAP Labs — Top 10 / 120+ Teams
-         : Smart India Hackathon — Regional Winner
-    2025 : Achieved LeetCode Knight rank
-         : Bluestock — Software Engineer Intern
-         : HackIndia — Invited as Mentor
-    2026 : CGPA 9.0 · Open to Opportunities
+    2023 : B.E. CS · Chitkara
+    2024 : HackIndia · SAP Labs · SIH
+    2025 : Knight · Intern · Mentor
+    2026 : CGPA 9.0 · Open to Work
 ```
 
 ---
@@ -139,7 +134,6 @@ timeline
 </div>
 
 <br/>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anuj-er&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" width="96%" />
 </div>
