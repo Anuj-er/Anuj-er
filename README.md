@@ -28,9 +28,10 @@
 
 ---
 
-<table width="100%">
+<div align="center">
+<table width="80%">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 ### Identity
 
@@ -43,7 +44,7 @@ batch   : 2023 – 2027
 ```
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="50%" align="center">
 
 ### Experience
 
@@ -57,13 +58,14 @@ scope   : backend · frontend · git · releases
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
 ### Stack
 
 ```mermaid
-%%{init: {'theme': 'neutral', 'themeVariables': {'fontSize': '11px'}}}%%
+%%{init: {'theme': 'neutral', 'themeVariables': {'fontSize': '10px'}}}%%
 mindmap
   root((Anuj))
     Languages
@@ -88,20 +90,6 @@ mindmap
       DSA/OOP
       OS/CN/DBMS
 ```
-
----
-
-### Competitive Programming
-
-```
-Platform  :  LeetCode
-Rank      :  Knight  ⚔️
-Topics    :  Arrays · Hashing · Recursion · Greedy · Trees · DP
-```
-
-<div align="center">
-  <img src="https://leetcard.vercel.app/anuj-er?theme=dark&font=baloo&ext=heatmap&border=0&bgcolor=1a1b27" width="70%" />
-</div>
 
 ---
 
