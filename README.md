@@ -19,7 +19,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-anuj--er-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuj-er)
 &nbsp;
-[![X](https://img.shields.io/badge/X-%405iwach-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/5iwach)
+[![Twitter](https://img.shields.io/badge/%405iwach-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/5iwach)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-anujkumar142000-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:anujkumar142000@gmail.com)
 &nbsp;
@@ -64,6 +64,7 @@ scope   : backend · frontend · git · releases
 ### Stack
 
 ```mermaid
+%%{init: {'theme': 'dark'}}%%
 mindmap
   root((Anuj Kumar))
     Languages
@@ -118,6 +119,7 @@ Topics    :  Arrays · Hashing · Recursion · Greedy · Trees · DP
 ### Journey
 
 ```mermaid
+%%{init: {'theme': 'dark'}}%%
 timeline
     title Engineering Timeline
     2023 : Started B.E. CS · Chitkara University
@@ -133,9 +135,7 @@ timeline
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuj-er&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&hide=issues&rank_icon=github" height="160" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuj-er&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=anuj-er&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160" />
 </div>
 
 <br/>
